@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058700091735",
+    "project_id": "ugbsinfo",
+    "storage_bucket": "ugbsinfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058700091735:android:ee6e52d7b0abf3ca5c5e12",
+        "android_client_info": {
+          "package_name": "com.amponsahoppong.ugbs_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058700091735-tmp9sr1h9lp7h4s4bj0pdnvg1ef5u1rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx09XGgUtk6mJ0ACK1xEsYiXuXEIxilcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058700091735-tmp9sr1h9lp7h4s4bj0pdnvg1ef5u1rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
